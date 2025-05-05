@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gravity Falls: trilogy</title>
+    <link rel="stylesheet" href="CSS/styles.css">
+</head>
+
+<body>
+    <div id="container">
+        <header>
+            <img id="banner" src="images/mysteries.jpeg" alt="mysteries header">
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">home</a></li>
+                <li><a href="about.html">about</a></li>
+                <li><a href="episodes.html">episodes</a></li>
+                <li><a href="trilogy.html">trilogy</a></li>
+            </ul>
+        </nav>
+        <main>
+            <h1>Gravity Falls Journals: Secrets & Hidden Lore</h1>
+            <hr>
+            <h2>Origin of the Journals</h2>
+            <p>The three journals in Gravity Falls—Journals 1, 2, and 3—are packed with paranormal research, cryptic codes, and forbidden knowledge. Stanford Pines (Grunkle Stan's twin brother), a brilliant scientist, wrote them to catalog the supernatural phenomena in Gravity Falls before being pulled into another dimension. Originally for research, but later used as a survival guide and secret weapon against entities like Bill Cipher.</p>
+            <img src="images/journal 3.jpeg" alt="Journal 3">
+
+            <h2>Journal Contents</h2>
+            <h3>Journal 1<h/3>
+                <p>Earliest anomalies Ford documented.  Includes dimensional theories, first contact with Bill Cipher.  Eventually stolen by Gideon.</p>
+            <hr>
+            <h3>Journal 2</h3>
+                <p>Middle journal, contains blueprints and cryptid behavior. Ford used this for early expermentation.  Hidden until the events of Season 2</p>
+            <hr>
+            <h3>Journal 3</h3>
+                <p>Final journal, contains the most advanced research and the most dangerous secrets.  Dipper finds this journal in the woods and uses it to fight Bill Cipher. Also Contains: Creature entries (gnomes, shapeshifter, etc.), Portal schematics, Cipher clues, Anti-Bill strategies, Warnings: “Trust No One.”</p>
+                <img src="images/dipmsythemesong.jpg" alt="Dipper and Mabel">
+
+        
+        </main>
+        <footer>
+            <p>&copy; 2025 Gravity Falls Project page</p>
+        </footer>
+    </div>
+</body>
+</html>
