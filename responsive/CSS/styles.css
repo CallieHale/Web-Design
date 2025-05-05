@@ -18,49 +18,51 @@ img {
 @media (min-width: 320px) {
     nav {
         background-color:#064B68
-        padding: 0;
+        background-color:#064B68;
+        padding: 5px;
         margin-top: 10pox;
         text-align: center;
     } 
 
-nav ul {
-    list-style: none;
+    nav ul {
+        list-style: none;
         padding: 0;
-        margin: 0;
     }
-}
-nav li {
-    display: block;
-}
 
-nav li a {
-    display: block;
-    height: 40px;
-    background-color: #1b2c83;
-    color:aliceblue;
-    font-size: 24px;
-    text-decoration: none;
-    margin-top: 5px;
-}
+    nav li {
+        display: block;
+        }
 
-nav li a:hover {
-    background-color: #1b2c83;
-    color: #fff;
-}
+    nav li a {
+        display: block;
+        height: 40px;
+        line-height: 40px;
+        background-color: #1b2c83;
+        color:aliceblue;
+        font-size: 24px;
+        text-decoration: none;
+        margin-top: 5px;
+    }
 
-main {
-    padding: 20px;
-}
+    nav li a:hover {
+    background-color: #19585c;
+    }
 
-h1,
-h2,
-h3 {
-    text-align: center;
-    color:#064B68;
-    text-shadow: 1px 1px 2px black
-}
+    main {
+        padding: 20px;
+    }
 
-footer {
-    text-align: center;
-    padding: 40px;
+    h1,
+    h2,
+    h3 {
+        text-align: center;
+        color:#1e6b8d;
+        text-shadow: 1px 1px 1px black
+    }
+
+    footer {
+        text-align: center;
+        padding: 40px;
+        color:#F23D6D
+        text-shadow: 1px 1px 1px black;
 }
