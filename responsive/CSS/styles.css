@@ -65,4 +65,27 @@ img {
         padding: 40px;
         color:#F23D6D
         text-shadow: 1px 1px 1px black;
+    }
+
+}
+
+/* Tablet Styles */
+
+@media (min-width: 768px) {
+    nav li{
+        display: inline-block;
+    }
+    
+    nav li a {
+        widtgh: 125px;
+        height: 50px;
+        line-height: 50px;
+        margin: 5px;
+    }
+
+    .show_post2 {
+        width: 50%;
+        border-radius: 10px;
+        box-shadow: 3px 3px;
+    }
 }
