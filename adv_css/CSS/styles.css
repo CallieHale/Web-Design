@@ -18,6 +18,11 @@ body {
     text-shadow: 2px 2px 2px #dc723e
 }
 
+.show_post {
+    width: 80;
+    height: 50%;
+}
+
 #col1 {
     width: 50%;
     border: 2px solid black;
@@ -31,7 +36,6 @@ body {
     margin: 20px;
     padding: 20px
 }
-
 
 img {
    display: block;
