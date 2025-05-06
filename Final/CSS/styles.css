@@ -17,7 +17,7 @@ img {
 
 @media (min-width: 320px) {
     nav {
-        background-color:#064B68;
+        background-color:#680668;
         padding: 5px;
         margin-top: 10px;
         text-align: center;
@@ -36,7 +36,7 @@ img {
         display: block;
         height: 40px;
         line-height: 40px;
-        background-color: #1b2c83;
+        background-color: #1b7e83;
         color:aliceblue;
         font-size: 24px;
         text-decoration: none;
