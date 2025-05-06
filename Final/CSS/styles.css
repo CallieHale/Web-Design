@@ -1,7 +1,7 @@
 /* Global Styles */
 body {
-    background-color: #AF7277;
-}
+    background-color: #064B68;
+
 
 img {
     display: block;
@@ -17,7 +17,7 @@ img {
 
 @media (min-width: 320px) {
     nav {
-        background-color:#064B68;
+        background-color:#A
         padding: 5px;
         margin-top: 10px;
         text-align: center;
